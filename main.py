@@ -14,3 +14,6 @@ y = y / numberGrades # Calculation
 
 print()
 print("Your final grade is: " + str(y))
+print()
+
+input("To close the program press enter...")
